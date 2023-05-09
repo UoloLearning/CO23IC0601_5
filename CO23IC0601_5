@@ -1,0 +1,25 @@
+<html>
+    <!--Heading Start-->
+    <head>
+        <!--Title of my web page-->
+        <title>My Blog</title>
+    </head>
+    <!--Content of my web page-->
+    
+    <body>
+       
+       	<h1>Fun Facts</h1>
+        <h2>Learn to Add images</h2>
+        <img src="https://i.pinimg.com/originals/f7/0e/3d/f70e3d5facffb4308b3b5ab7bedb0490.jpg">
+        
+      	<p> Compared to humans, <i>eagles</i> have eyes that are four times sharper. </p>
+        <p> <i>Hummingbirds</i> can beat their wings 200 times per second. </p>
+        <p> Among wild cats, <i>tigers</i> are the biggest. </p>
+        <p> <i>Zebras</i> live in large groups called herds. A 'super herd' may form as they migrate to new feeding grounds. </p>
+        <p> During the night, <i>hippos</i> forage for food. Grass is their main food source, as they are herbivores. </p>
+        
+           
+    </body>
+
+
+</html>
